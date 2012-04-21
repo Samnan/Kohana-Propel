@@ -63,7 +63,7 @@ There are no other dependencies of this module.
 
          propel.bat convert-conf
 
-   This generates two files in the schema/build/conf directory. Copy them to your application/config directory as per Kohana's convention (there is no need to change anything in those files).
+   This generates two files in the schema/build/conf directory. There is no need to change anything in those files.
 
 5. That's it. Now you can start using Propel in your Kohana project by creating Models and performing queries.
    [Here is a link](http://propel.posterous.com/propel-query-by-example) that will give you a headstart on writing Propel queries.
