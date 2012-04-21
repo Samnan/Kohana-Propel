@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	if you are reverse engineering your database, then leave this file empty
+	otherwise, create your database schema here as described in the Propel documentation.
+-->
